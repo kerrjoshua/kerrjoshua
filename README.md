@@ -2,6 +2,10 @@
 <h3 align="center"> Full Stack Web Developer | English Language Educator </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kerrjoshua&label=Profile%20views&color=0e75b6&style=flat" alt="kerrjoshua" /> </p>
+<p>I am a tech-savvy educator and web developer with a Master's Degree in Education and a Bachelor of Science Degree in International Business Administration. I enjoy communicating with global teams to contribute to both team and organization goals. Recently, I have been contributing to dynamic web application projects using React, JavaScript, Redux, Node, Jest, HTML, CSS, and GitHub tech stack tools.
+  
+I have 8+ years of academic teaching experience designing curricula to provide an interactive University-level learning experience.
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kerrjoshua" alt="kerrjoshua" /></a> </p>
 
